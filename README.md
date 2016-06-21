@@ -1,0 +1,2 @@
+# LoSt
+Simple localStorage wrapper
